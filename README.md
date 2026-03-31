@@ -15,7 +15,10 @@ SQL-first career switcher with an IT/software background, pivoting into data ana
 
 ## Featured Projects
 - [Case Resolution SLA Reporting Pack](https://github.com/dui-w-moonrin/case_resolution_sla_reporting_pack)
+![Dashboard Preview](https://github.com/dui-w-moonrin/case_resolution_sla_reporting_pack/blob/main/images/dashboard-preview.png)
+
 - [Stack Overflow Developer Survey 2024](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending)
+![Dashboard Preview](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending/blob/main/images/languages_trends.png)
 - [sql-first-data-quality-scorecard](https://github.com/dui-w-moonrin/sql-first-data-quality-scorecard)
 
 
