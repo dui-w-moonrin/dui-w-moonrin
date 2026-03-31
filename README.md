@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**dui-w-moonrin/dui-w-moonrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Watcharapong 'Dui' Moonrin
+SQL-first career switcher with an IT/software background, pivoting into data analytics and data engineering.
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com?user=dui-w-moonrin&theme=radical)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dui-w-moonrin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+## What I'm focusing on
+- SQL, PostgreSQL, MySQL, SQL Server
+- Python, pandas, PySpark
+- Data validation, reconciliation, and reporting
+- ETL pipelines on GCP, Airflow, BigQuery
+- Portfolio projects for analytics and data engineering
+
+## Featured Projects
+- [Case Resolution SLA Reporting Pack](https://github.com/dui-w-moonrin/case_resolution_sla_reporting_pack)
+- [Stack Overflow Developer Survey 2024](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending)
+- [sql-first-data-quality-scorecard](https://github.com/dui-w-moonrin/sql-first-data-quality-scorecard)
+
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/dui-w-moonrin/)
+- [Credly](https://www.credly.com/users/dui-w-moonrin/)
