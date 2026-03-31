@@ -21,6 +21,7 @@ SQL-first career switcher with an IT/software background, pivoting into data ana
 ![Dashboard Preview](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending/blob/main/images/languages_trends.png)
 
 - [sql-first-data-quality-scorecard](https://github.com/dui-w-moonrin/sql-first-data-quality-scorecard)
+
 | table_name | row_count | overall_null_pct | pk_duplicate_rows | fk_orphan_rows | dq_score_0_100 |
 |-----------|----------:|-----------------:|------------------:|---------------:|---------------:|
 | customers | 225 | 0.22 | 0 | 0 | 100 |
