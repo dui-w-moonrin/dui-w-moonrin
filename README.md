@@ -19,7 +19,16 @@ SQL-first career switcher with an IT/software background, pivoting into data ana
 
 - [Stack Overflow Developer Survey 2024](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending)
 ![Dashboard Preview](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending/blob/main/images/languages_trends.png)
+
 - [sql-first-data-quality-scorecard](https://github.com/dui-w-moonrin/sql-first-data-quality-scorecard)
+| table_name | row_count | overall_null_pct | pk_duplicate_rows | fk_orphan_rows | dq_score_0_100 |
+|-----------|----------:|-----------------:|------------------:|---------------:|---------------:|
+| customers | 225 | 0.22 | 0 | 0 | 100 |
+| inventory_transactions | 20,951 | 24.63 | 0 | 0 | 80 |
+| order_details | 105,757 | 0.00 | 0 | 0 | 100 |
+| orders | 2,286 | 0.05 | 0 | 0 | 100 |
+| payments | 686 | 0.06 | 0 | 0 | 100 |
+| products | 4,183 | 7.08 | 0 | 0 | 94 |
 
 
 ## Connect with me
