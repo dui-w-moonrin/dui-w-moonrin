@@ -6,7 +6,7 @@ SQL-first career switcher with an IT/software background, pivoting into data ana
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dui-w-moonrin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dui-w-moonrin&layout=compact)
 
 ## What I'm focusing on
 - SQL, PostgreSQL, MySQL, SQL Server
