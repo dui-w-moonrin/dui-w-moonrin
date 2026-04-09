@@ -1,5 +1,5 @@
 
-#  Watcharapong 'Dui' Moonrin
+# 'Dui' Watcharapong Moonrin
 SQL-first career switcher with an IT/software background, pivoting into data analytics and data engineering.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dui-w-moonrin&theme=radical)](https://git.io/streak-stats)
