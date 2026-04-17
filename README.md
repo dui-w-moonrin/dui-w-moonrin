@@ -20,7 +20,7 @@ environment)
 - Tools: Git, Docker, VS Code, DBeaver 
 
 ## Featured Projects
-- [Amazon Books DE Analytics ML Pipeline (End-to-End)](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline)
+- [Amazon Books Data Engineering Pipeline (End-to-End)](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline)
 ![Business Use Case](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/business_use_case.png)
 
 ![Architecture Diagram](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/architecture_diagram.png)
