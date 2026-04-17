@@ -1,36 +1,66 @@
 
-# 'Dui' Watcharapong Moonrin
-SQL-first career switcher with an IT/software background, pivoting into data analytics and data engineering.
+# Dui – Watcharapong Moonrin
+Target Role: Data Engineer 
+SQL-first career switcher with an IT and software development background, pivoting into a data career 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dui-w-moonrin&theme=radical)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dui-w-moonrin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dui-w-moonrin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ## What I'm focusing on
-- SQL, PostgreSQL, MySQL, SQL Server
-- Python, pandas, PySpark
-- Data validation, reconciliation, and reporting
-- ETL pipelines on GCP, Airflow, BigQuery
-- Portfolio projects for analytics and data engineering
+- Data Engineering: PySpark, Apache Airflow, ETL Pipeline Design, Data Modeling (Medallion Architecture) 
+- Cloud & Big Data: Google Cloud Platform (GCS, BigQuery, Cloud Composer, Dataproc Serverless)  
+- Data Processing: Python, PySpark DataFrame API, Databricks Environment, Parquet, Data Transformation, Data Validation  
+- Orchestration & Runtime: Apache Airflow (DAG design), DataprocCreateBatchOperator, Kubernetes (Composer-managed 
+environment) 
+- Data Quality: Data validation, quality checks, quarantine handling, cross-table relationship validation 
+- Databases & Querying: PostgreSQL, MySQL, SQL Server (CTEs, joins, window functions) 
+- Runtime & Environment: Docker Compose, Cloud Shell, Linux CLI, environment-driven configuration 
+- Tools: Git, Docker, VS Code, DBeaver 
 
 ## Featured Projects
-- [Case Resolution SLA Reporting Pack](https://github.com/dui-w-moonrin/case_resolution_sla_reporting_pack)
-![Dashboard Preview](https://github.com/dui-w-moonrin/case_resolution_sla_reporting_pack/blob/main/images/dashboard-preview.png)
+- [Amazon Books DE Analytics ML Pipeline (End-to-End)](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline)
+![Business Use Case](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/business_use_case.png)
 
-- [Stack Overflow Developer Survey 2024](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending)
-![Dashboard Preview](https://github.com/dui-w-moonrin/stack_overflow_dev_survey_2024_portfolio-trending/blob/main/images/languages_trends.png)
+![Architecture Diagram](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/architecture_diagram.png)
 
-- [sql-first-data-quality-scorecard](https://github.com/dui-w-moonrin/sql-first-data-quality-scorecard)
+### 🧱 Entity Relationship - ERD
 
-| table_name | row_count | overall_null_pct | pk_duplicate_rows | fk_orphan_rows | dq_score_0_100 |
-|-----------|----------:|-----------------:|------------------:|---------------:|---------------:|
-| customers | 225 | 0.22 | 0 | 0 | 100 |
-| inventory_transactions | 20,951 | 24.63 | 0 | 0 | 80 |
-| order_details | 105,757 | 0.00 | 0 | 0 | 100 |
-| orders | 2,286 | 0.05 | 0 | 0 | 100 |
-| payments | 686 | 0.06 | 0 | 0 | 100 |
-| products | 4,183 | 7.08 | 0 | 0 | 94 |
+```mermaid
+erDiagram
+    Direction LR
+    BOOKS_DATA ||--o{ BOOKS_RATING : joins_on_title_candidate
 
+    BOOKS_DATA {
+        string title_hash PK
+        string description
+        string authors
+        string image_url
+        string preview_link
+        string publisher
+        string published_date_raw
+        string info_link
+        string categories
+        string ratings_count_raw
+    }
+
+    BOOKS_RATING {
+        string title_hash FK
+        string price_raw
+        string user_id
+        string profile_name
+        string reviewhelpfulness
+        string review_score
+        string review_time_raw
+        string review_summary
+        string review_text
+    }
+```
+## 📊 Looker Studio Demo
+![Demo](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main//docs/images/bi_screenshot.png)
+
+[Demo](https://datastudio.google.com/s/rl8YWVJNbvg)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dui-w-moonrin/)
