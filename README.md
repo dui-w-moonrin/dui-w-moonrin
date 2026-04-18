@@ -60,7 +60,7 @@ erDiagram
 ## 📊 Looker Studio Demo
 ![Demo](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main//docs/images/bi_screenshot.png)
 
-[Demo](https://datastudio.google.com/s/jqeVpwP_tzw)
+[Demo](https://datastudio.google.com/s/o4eNN6GTweM)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dui-w-moonrin/)
