@@ -21,8 +21,11 @@ environment)
 
 ## Featured Projects
 - [Amazon Books Data Engineering Pipeline (End-to-End)](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline)
+
+## 🎯 Business Case
 ![Business Use Case](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/business_use_case.png)
 
+## Archetecture Diagram
 ![Architecture Diagram](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/architecture_diagram.png)
 
 ### 🧱 Entity Relationship - ERD
