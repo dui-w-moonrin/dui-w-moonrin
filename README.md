@@ -60,10 +60,11 @@ erDiagram
         string review_text
     }
 ```
-## DAGS & Timeline
+## DAGS
 ![DAGS](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/dags.png)
 
-[!Timeline](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/timeline.png)
+## Timeline
+![DAGS](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/timeline.png)
 
 ## 📊 Data Studio (Looker Studio) Demo
 ![Demo](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/bi_screenshot.png)
