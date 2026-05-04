@@ -20,13 +20,13 @@ environment)
 - Tools: Git, Docker, VS Code, DBeaver 
 
 ## Featured Projects
-- [Amazon Books Data Engineering Pipeline (End-to-End)](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline)
+- [Amazon Books Data Engineering Pipeline (End-to-End) — Databricks Edition](https://github.com/dui-w-moonrin/amazon-books-de-databricks/) 
 
 ## 🎯 Business Case
-![Business Use Case](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/business_use_case.png)
+![Business Use Case](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/business_use_case.png)
 
 ## Archetecture Diagram
-![Architecture Diagram](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main/docs/images/architecture_diagram.png)
+![Architecture Diagram](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/delta_lake.png)
 
 ### 🧱 Entity Relationship - ERD
 
@@ -60,8 +60,13 @@ erDiagram
         string review_text
     }
 ```
-## 📊 Looker Studio Demo
-![Demo](https://github.com/dui-w-moonrin/amazon-books-de-analytics-ml-pipeline/raw/main//docs/images/bi_screenshot.png)
+## DAGS & Timeline
+![DAGS](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/dags.png)
+
+[!Timeline](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/timeline.png)
+
+## 📊 Data Studio (Looker Studio) Demo
+![Demo](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/bi_screenshot.png)
 
 [Demo](https://datastudio.google.com/s/o4eNN6GTweM)
 
