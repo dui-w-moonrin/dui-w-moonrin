@@ -7,7 +7,15 @@ SQL-first career switcher with an IT and software development background, pivoti
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dui-w-moonrin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dui-w-moonrin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## 🧰 My Code Stack
+
+<p align="center">
+  <img
+    src="https://github-top-languages-nu.vercel.app/api/languages?count=10&theme=dark&title=Dui%27s%20Code%20Stack&width=500&height=320&stroke=true"
+    alt="Dui's Top Programming Languages"
+  />
+</p>
+
 ## What I'm focusing on
 - Data Engineering: PySpark, Apache Airflow, ETL Pipeline Design, Data Modeling (Medallion Architecture) 
 - Cloud & Big Data: Google Cloud Platform (GCS, BigQuery, Cloud Composer, Dataproc Serverless)  
