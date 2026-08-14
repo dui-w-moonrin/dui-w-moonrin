@@ -28,7 +28,9 @@ environment)
 - Tools: Git, Docker, VS Code, DBeaver 
 
 ## Featured Projects
-- [Amazon Books Data Engineering Pipeline (End-to-End) — Databricks Edition](https://github.com/dui-w-moonrin/amazon-books-de-databricks/) 
+- [Amazon Books Data Engineering Pipeline (End-to-End) — Databricks Edition](https://github.com/dui-w-moonrin/amazon-books-de-databricks/)
+- [BahtFlow GCP Financial Data Pipeline](https://github.com/dui-w-moonrin/bahtflow-gcp-financial-data-pipeline/)
+- [BahtFlow Databricks Declarative Pipeline](https://github.com/dui-w-moonrin/bahtflow-databricks-declarative-pipeline/)
 
 ## 🎯 Business Case
 ![Business Use Case](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/business_use_case.png)
