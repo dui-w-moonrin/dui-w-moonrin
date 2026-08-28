@@ -27,6 +27,8 @@ environment)
 - Runtime & Environment: Docker Compose, Cloud Shell, Linux CLI, environment-driven configuration 
 - Tools: Git, Docker, VS Code, DBeaver 
 
+## 🛠️ DATA ENGINEERING SHOWCASE
+
 ## Featured Projects
 - [Amazon Books Data Engineering Pipeline (End-to-End) — Databricks Edition](https://github.com/dui-w-moonrin/amazon-books-de-databricks/)
 - [BahtFlow GCP Financial Data Pipeline](https://github.com/dui-w-moonrin/bahtflow-gcp-financial-data-pipeline/)
@@ -80,6 +82,14 @@ erDiagram
 ![Demo](https://github.com/dui-w-moonrin/amazon-books-de-databricks/raw/main/images/bi_screenshot.png)
 
 [Demo](https://datastudio.google.com/s/o4eNN6GTweM)
+
+## 📈 DATA VISUALIZATION SHOWCASE
+
+The Secret Sauce Podcast Analytics DEMO (SKOOLDIO course project)
+
+![Demo](https://github.com/dui-w-moonrin/dui-w-moonrin/blob/main/images/DEMO%20The%20Secret%20Sauce%20Looker%20Studio%20with%20Skooldio.png)
+
+[Demo](https://datastudio.google.com/s/pG_8VRiIvWQ)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dui-w-moonrin/)
