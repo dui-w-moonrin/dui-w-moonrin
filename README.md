@@ -5,7 +5,7 @@ SQL-first career switcher with an IT and software development background, pivoti
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dui-w-moonrin&theme=radical)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dui-w-moonrin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://raw.githubusercontent.com/dui-w-moonrin/dui-w-moonrin/output/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧰 My Repo Code Stack
 
